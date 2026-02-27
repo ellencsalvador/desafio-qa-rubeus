@@ -1,0 +1,24 @@
+{
+  "name": "desafio-qa-rubeus",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes para o processo seletivo da Rubeus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellencsalvador/desafio-qa-rubeus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ellencsalvador/desafio-qa-rubeus/issues"
+  },
+  "homepage": "https://github.com/ellencsalvador/desafio-qa-rubeus#readme",
+  "devDependencies": {
+    "cypress": "^15.11.0"
+  }
+}
